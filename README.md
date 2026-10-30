@@ -3,7 +3,7 @@
 A high-fidelity, premium Netflix clone built using vanilla HTML, CSS, and JavaScript. It uses the TMDB API to dynamically fetch and display movies across different categories like Netflix Originals, Trending Now, Top Rated, and various genres.
 
 ## Live Demo
-[View Live Site](https://ABHISHEK7GOWDA.github.io/abhi/)
+[View Live Site](https://netfleex-show.vercel.app)
 
 ## Features
 - Dynamic Hero Banner with a featured Netflix Original movie.
